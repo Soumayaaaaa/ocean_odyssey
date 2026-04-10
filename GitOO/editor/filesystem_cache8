@@ -1,0 +1,150 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1716582561
+export_presets.cfg::TextFile::-1::1711226329::0::1::::<><>::
+::res://HTML/::1712328835
+index.apple-touch-icon.png::CompressedTexture2D::1077432831585325350::1711226334::1712328834::1::::<><>::
+index.icon.png::CompressedTexture2D::6744586029209777916::1711226334::1712328834::1::::<><>::
+index.png::CompressedTexture2D::4091512950796119248::1711226334::1712328835::1::::<><>::
+::res://scenes/::1716584844
+About.tscn::PackedScene::8603117926547370037::1711224880::0::1::::<><>::res://scripts/main_menu.gd<>uid://doxt1wb7r7v2h::::res://sprites/underwater-fantasy-files/PNG/underwater-fantasy-preview.png<>uid://buqpr84npq5vv::::res://sprites/logo.png<>uid://x80utt85k6h0::::res://Fonts/Kenney Future.ttf
+checkpoint.tscn::PackedScene::1755384040456807223::1716580928::0::1::::<><>::res://scripts/finish.gd<>uid://chliay7g1rgt7::::res://sprites/pinkcoral.png
+coins.tscn::PackedScene::2246750847320021625::1716580927::0::1::::<><>::res://scripts/coins.gd<>uid://c1kr0lg1qja8w::::res://sprites/gold.png
+ed.tscn::PackedScene::2017658311425372027::1716580927::0::1::::<><>::res://scripts/ed.gd<>uid://cxurd2d4noysn::::res://sprites/1 Woodcutter/Attack.png<>uid://b2jy67138w2d::::res://sprites/1 Woodcutter/Idle2.png<>uid://hdp6aagxoouj::::res://sprites/1 Woodcutter/Death.png<>uid://uq7ggtqqkx0v::::res://sprites/1 Woodcutter/Idle.png<>uid://bnfljvqsugga5::::res://sprites/1 Woodcutter/Hurt.png<>uid://ckuiwhcdlds72::::res://sprites/1 Woodcutter/Attack2.png<>uid://d1nwsywld61vj::::res://sprites/1 Woodcutter/Hurt2.png<>uid://d0s0adx58rhjc::::res://sprites/1 Woodcutter/Hurt3.png<>uid://dgfa55w23ln0i::::res://sprites/1 Woodcutter/Jump.png<>uid://dlnpod3bqodsu::::res://sprites/1 Woodcutter/Swim.png<>uid://d0h7clc1wyuw5::::res://sprites/1 Woodcutter/Swim2.png
+endscene.gd::GDScript::-1::1711211893::0::1::::<>Node2D<>::
+endscene.tscn::PackedScene::5150146911691475185::1711224880::0::1::::<><>::uid://x80utt85k6h0::::res://Fonts/Kenney Future.ttf<>res://scenes/endscene.gd<>uid://cdu3bkj8jvljd::::res://scenes/gamesound.tscn
+enemy.tscn::PackedScene::121140201255146988::1716580927::0::1::::<><>::res://scripts/enemy.gd<>uid://lvvifh5fqxrf::::res://sprites/6/Death.png<>uid://d2ses3upareab::::res://sprites/6/Attack.png<>uid://4c3vhpb3d8o7::::res://sprites/6/Hurt.png<>uid://bmj5krxwhejnw::::res://sprites/6/Idle.png<>uid://djs42wor66rfa::::res://sprites/6/Walk.png
+game.tscn::PackedScene::5693748825535248071::1711224879::0::1::::<><>::uid://dnti3plo2ae8p::::res://sprites/backgroundnight.png<>uid://b5o7dggcfwdm7::::res://sprites/underwater-fantasy-preview.png<>uid://bgho88bq6d3ji::::res://sprites/sand_tileset.png<>uid://8w8qhnxmwmt3::::res://sprites/tilebg.png<>uid://byxfquj3myrk::::res://scenes/enemy.tscn<>uid://30msjqbyyk08::::res://scenes/ed.tscn<>uid://7alwm46voetd::::res://scenes/coins.tscn<>uid://0ak6h84fy24b::::res://scenes/checkpoint.tscn<>res://scripts/GameManager.gd<>uid://x80utt85k6h0::::res://Fonts/Kenney Future.ttf<>uid://cdu3bkj8jvljd::::res://scenes/gamesound.tscn
+gamesound.tscn::PackedScene::5026397855621836281::1711219564::0::1::::<><>::res://scenes/sound.gd<>uid://bspih3adwgljd::::res://singletons/sou - ocean odyssey 2024-03-22 02_25 (1).mp3
+howtoplay.tscn::PackedScene::9212598377279059081::1711224880::0::1::::<><>::res://scripts/main_menu.gd<>uid://doxt1wb7r7v2h::::res://sprites/underwater-fantasy-files/PNG/underwater-fantasy-preview.png<>uid://buqpr84npq5vv::::res://sprites/logo.png<>uid://x80utt85k6h0::::res://Fonts/Kenney Future.ttf
+Kenney Future.ttf::FontFile::1684022539090801811::1716584844::1716584850::1::::<><>::
+loss.gd::GDScript::-1::1711212047::0::1::::<>Node2D<>::
+loss.tscn::PackedScene::2412036317929079405::1711224880::0::1::::<><>::uid://x80utt85k6h0::::res://Fonts/Kenney Future.ttf<>res://scenes/loss.gd<>uid://cdu3bkj8jvljd::::res://scenes/gamesound.tscn
+main_menu.tscn::PackedScene::6777312614043726708::1711224880::0::1::::<><>::res://scripts/main_menu.gd<>uid://doxt1wb7r7v2h::::res://sprites/underwater-fantasy-files/PNG/underwater-fantasy-preview.png<>uid://buqpr84npq5vv::::res://sprites/logo.png<>uid://x80utt85k6h0::::res://Fonts/Kenney Future.ttf<>uid://cdu3bkj8jvljd::::res://scenes/gamesound.tscn
+sounds.tscn::PackedScene::7643196082041771830::1716580928::0::1::::<><>::uid://bspih3adwgljd::::res://singletons/sou - ocean odyssey 2024-03-22 02_25 (1).mp3
+::res://scripts/::1711224523
+coins.gd::GDScript::-1::1711102361::0::1::::<>Area2D<>::
+ed.gd::GDScript::-1::1711212116::0::1::::<>CharacterBody2D<>::
+enemy.gd::GDScript::-1::1711211382::0::1::::<>CharacterBody2D<>::
+finish.gd::GDScript::-1::1711198840::0::1::::<>Area2D<>::
+GameManager.gd::GDScript::-1::1711211383::0::1::::<>Node<>::
+global.gd::GDScript::-1::1711204741::0::1::::<>Node<>::
+main_menu.gd::GDScript::-1::1711221757::0::1::::<>Node<>::
+::res://singletons/::1711224538
+sou - ocean odyssey 2024-03-22 02_25 (1).mp3::AudioStreamMP3::3681285242807805137::1711219149::1711220349::1::::<><>::
+::res://sprites/::1711223377
+backgroundnight.png::CompressedTexture2D::8111476739387612209::1710959667::1711027378::1::::<><>::
+gold.png::CompressedTexture2D::6619472501469029504::1710959693::1711027452::1::::<><>::
+heartshealth.png::CompressedTexture2D::2073151307699284583::1710959732::1711027458::1::::<><>::
+icon.png::CompressedTexture2D::1088899285401605089::1711223348::1711223377::1::::<><>::
+icon.svg::CompressedTexture2D::6412497563132965547::1710935233::1711027465::1::::<><>::
+logo.png::CompressedTexture2D::3824170492587837991::1711104433::1711104489::1::::<><>::
+New Piskel (2).png::CompressedTexture2D::3400458499892364254::1711027641::1711027661::1::::<><>::
+peachcoral.png::CompressedTexture2D::9180082490357335768::1711104433::1711113301::1::::<><>::
+pinkcoral.png::CompressedTexture2D::5287358474391395878::1711104433::1711113253::1::::<><>::
+sand_tileset.png::CompressedTexture2D::2822915094481208818::1710954128::1711027469::1::::<><>::
+Screenshot_2024-03-21-19-49-58-72_40deb401b9ffe8e1df2f1cc5ba480b12-removebg-preview.png::CompressedTexture2D::4438310306732920127::1711104432::1711104449::1::::<><>::
+talkbubble.png::CompressedTexture2D::7645897879077953995::1711119185::1711119231::1::::<><>::
+tilebg.png::CompressedTexture2D::2363680772915993826::1710960623::1711027478::1::::<><>::
+underwater-fantasy-preview.png::CompressedTexture2D::4522935907048499460::1710936043::1711027474::1::::<><>::
+yellowcoral.png::CompressedTexture2D::5556494837986958507::1711104433::1711113271::1::::<><>::
+::res://sprites/1/::1711027446
+Attack.png::CompressedTexture2D::207399864161889813::1710966889::1711027446::1::::<><>::
+Death.png::CompressedTexture2D::2964436833992496040::1710966889::1711027446::1::::<><>::
+Hurt.png::CompressedTexture2D::566947538716250907::1710966889::1711027446::1::::<><>::
+Idle.png::CompressedTexture2D::4325088793684581647::1710966889::1711027446::1::::<><>::
+Walk.png::CompressedTexture2D::2339702637394162392::1710966890::1711027446::1::::<><>::
+::res://sprites/1 Woodcutter/::1711027440
+Attack2.png::CompressedTexture2D::5516542753159966539::1710935939::1711027439::1::::<><>::
+Attack3.png::CompressedTexture2D::5057378772942949602::1710935939::1711027439::1::::<><>::
+Attack.png::CompressedTexture2D::6429511296501332465::1710935939::1711027439::1::::<><>::
+Death.png::CompressedTexture2D::498481153534870153::1710935939::1711027439::1::::<><>::
+Hurt2.png::CompressedTexture2D::9012378109653221059::1710935939::1711027439::1::::<><>::
+Hurt3.png::CompressedTexture2D::8952660060930740712::1710935939::1711027439::1::::<><>::
+Hurt.png::CompressedTexture2D::3309882627375426918::1710935939::1711027439::1::::<><>::
+Idle2.png::CompressedTexture2D::126518033863919609::1710935940::1711027439::1::::<><>::
+Idle.png::CompressedTexture2D::1438760920597713747::1710935939::1711027439::1::::<><>::
+Jump.png::CompressedTexture2D::7590772186445766790::1710935940::1711027440::1::::<><>::
+Swim2.png::CompressedTexture2D::8930380883723015866::1710935940::1711027440::1::::<><>::
+Swim.png::CompressedTexture2D::7959112198798547220::1710935940::1711027440::1::::<><>::
+::res://sprites/2/::1711027426
+Attack.png::CompressedTexture2D::1934791705614508782::1710966890::1711027425::1::::<><>::
+Death.png::CompressedTexture2D::1157875241935255370::1710966890::1711027425::1::::<><>::
+Hurt.png::CompressedTexture2D::8048160672790480326::1710966890::1711027425::1::::<><>::
+Idle.png::CompressedTexture2D::3234006594755359662::1710966890::1711027425::1::::<><>::
+Walk.png::CompressedTexture2D::8343890771170773848::1710966890::1711027425::1::::<><>::
+::res://sprites/2 GraveRobber/::1711027433
+Attack2.png::CompressedTexture2D::8741365827633847575::1710935939::1711027431::1::::<><>::
+Attack3.png::CompressedTexture2D::1485512044277832203::1710935939::1711027431::1::::<><>::
+Attack.png::CompressedTexture2D::7866637693515995235::1710935939::1711027432::1::::<><>::
+Death.png::CompressedTexture2D::7201791918858310207::1710935939::1711027432::1::::<><>::
+Hurt2.png::CompressedTexture2D::1475122299270689489::1710935939::1711027432::1::::<><>::
+Hurt3.png::CompressedTexture2D::8723418310937727656::1710935939::1711027432::1::::<><>::
+Hurt.png::CompressedTexture2D::7100306724862039252::1710935939::1711027432::1::::<><>::
+Idle2.png::CompressedTexture2D::673825357516859303::1710935939::1711027432::1::::<><>::
+Idle.png::CompressedTexture2D::4875252175189450738::1710935939::1711027432::1::::<><>::
+Jump.png::CompressedTexture2D::3223092656644575858::1710935939::1711027432::1::::<><>::
+Swim2.png::CompressedTexture2D::2223124559454064426::1710935939::1711027432::1::::<><>::
+Swim.png::CompressedTexture2D::6802824764757111337::1710935939::1711027433::1::::<><>::
+::res://sprites/3/::1711027420
+Arrow1.png::CompressedTexture2D::9132648901574147967::1710966888::1711027420::1::::<><>::
+Arrow2.png::CompressedTexture2D::3045750193491094663::1710966888::1711027420::1::::<><>::
+Arrow3.png::CompressedTexture2D::1353850071634447710::1710966888::1711027420::1::::<><>::
+Arrow4.png::CompressedTexture2D::4878009426067354646::1710966888::1711027420::1::::<><>::
+Arrow5.png::CompressedTexture2D::7740300111488841933::1710966888::1711027420::1::::<><>::
+Attack2.png::CompressedTexture2D::6829711358786298124::1710966888::1711027420::1::::<><>::
+Attack.png::CompressedTexture2D::3251687364975267575::1710966888::1711027420::1::::<><>::
+Death.png::CompressedTexture2D::5691939370152450521::1710966889::1711027420::1::::<><>::
+Hurt.png::CompressedTexture2D::2873467037478296667::1710966889::1711027420::1::::<><>::
+Idle.png::CompressedTexture2D::8488947136585825006::1710966889::1711027420::1::::<><>::
+Walk.png::CompressedTexture2D::1397548887438544437::1710966889::1711027420::1::::<><>::
+::res://sprites/3 SteamMan/::1711119223
+Attack2.png::CompressedTexture2D::8802506016781820779::1710935940::1711027412::1::::<><>::
+Attack3.png::CompressedTexture2D::3145389896429888968::1710935940::1711027412::1::::<><>::
+Attack.png::CompressedTexture2D::404029351297285657::1710935940::1711027412::1::::<><>::
+Death.png::CompressedTexture2D::7336228785233648251::1710935940::1711027412::1::::<><>::
+Hurt2.png::CompressedTexture2D::1520555094770173228::1710935940::1711027413::1::::<><>::
+Hurt3.png::CompressedTexture2D::6620486999366276111::1710935940::1711027413::1::::<><>::
+Hurt.png::CompressedTexture2D::7272968411540606361::1710935940::1711027413::1::::<><>::
+Idle2.png::CompressedTexture2D::3604886628853860600::1710935940::1711027413::1::::<><>::
+Idle.png::CompressedTexture2D::1033612616574920832::1710935940::1711027413::1::::<><>::
+Jump.png::CompressedTexture2D::4457044086884795349::1710935940::1711027413::1::::<><>::
+Swim2.png::CompressedTexture2D::8890796908863305682::1710935940::1711027413::1::::<><>::
+Swim.png::CompressedTexture2D::7393303988714319921::1710935940::1711027413::1::::<><>::
+::res://sprites/4/::1711027407
+Attack.png::CompressedTexture2D::9173889193387491159::1710966892::1711027407::1::::<><>::
+Death.png::CompressedTexture2D::7003839150710060873::1710966892::1711027407::1::::<><>::
+Hurt.png::CompressedTexture2D::662097792486732174::1710966892::1711027407::1::::<><>::
+Idle.png::CompressedTexture2D::7744094658973406888::1710966892::1711027407::1::::<><>::
+Projectile.png::CompressedTexture2D::24412803845549319::1710966892::1711027407::1::::<><>::
+Walk2.png::CompressedTexture2D::3594875604847476762::1710966892::1711027407::1::::<><>::
+Walk.png::CompressedTexture2D::7497466357880312999::1710966892::1711027407::1::::<><>::
+::res://sprites/5/::1711027403
+Attack.png::CompressedTexture2D::8568479956101963908::1710966890::1711027402::1::::<><>::
+Death.png::CompressedTexture2D::6881320091829194318::1710966891::1711027402::1::::<><>::
+Hurt.png::CompressedTexture2D::1657019238078851955::1710966891::1711027402::1::::<><>::
+Idle.png::CompressedTexture2D::138049347577859906::1710966891::1711027402::1::::<><>::
+Walk2.png::CompressedTexture2D::1325777542115644136::1710966891::1711027402::1::::<><>::
+Walk.png::CompressedTexture2D::3880879668756625122::1710966891::1711027402::1::::<><>::
+::res://sprites/6/::1711027397
+Attack.png::CompressedTexture2D::9091796143372703993::1710966891::1711027397::1::::<><>::
+Death.png::CompressedTexture2D::816718830853728499::1710966891::1711027397::1::::<><>::
+Hurt.png::CompressedTexture2D::2041343189399049144::1710966891::1711027397::1::::<><>::
+Idle.png::CompressedTexture2D::3249106504294626308::1710966892::1711027397::1::::<><>::
+Walk.png::CompressedTexture2D::7829930630576362102::1710966892::1711027397::1::::<><>::
+::res://sprites/layers/::1711027667
+far.png::CompressedTexture2D::9050789459693048321::1710936043::1711027383::1::::<><>::
+foregound-merged.png::CompressedTexture2D::3106835691489963935::1710936043::1711027384::1::::<><>::
+foreground-1.png::CompressedTexture2D::83589344867065009::1710936043::1711027384::1::::<><>::
+foreground-2.png::CompressedTexture2D::8758640423312170047::1710936043::1711027384::1::::<><>::
+sand.png::CompressedTexture2D::5348678125904971197::1710936043::1711027384::1::::<><>::
+::res://sprites/underwater-fantasy-files/::1710935844
+public-license.txt::TextFile::-1::1710935844::0::1::::<><>::
+::res://sprites/underwater-fantasy-files/PNG/::1711027364
+underwater-fantasy-preview.png::CompressedTexture2D::8190587762395663297::1710935844::1711027363::1::::<><>::
+::res://sprites/underwater-fantasy-files/PNG/layers/::1711027363
+far.png::CompressedTexture2D::897327455787340638::1710935844::1711027363::1::::<><>::
+foregound-merged.png::CompressedTexture2D::7935239497045899985::1710935844::1711027363::1::::<><>::
+foreground-1.png::CompressedTexture2D::4443960586468333925::1710935844::1711027363::1::::<><>::
+foreground-2.png::CompressedTexture2D::9104593064366352144::1710935844::1711027363::1::::<><>::
+sand.png::CompressedTexture2D::8888006880357963348::1710935844::1711027363::1::::<><>::
+::res://sprites/underwater-fantasy-files/PSD/::1710935844

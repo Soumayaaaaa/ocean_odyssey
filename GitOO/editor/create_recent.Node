@@ -1,0 +1,14 @@
+AudioStreamPlayer2D
+Sprite2D
+Node2D
+Timer
+ProgressBar
+Label
+ColorRect
+CollisionShape2D
+Area2D
+Node
+AudioStreamPlayer
+AnimatedSprite2D
+MarginContainer
+NinePatchRect
